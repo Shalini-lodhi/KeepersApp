@@ -1,6 +1,6 @@
 # KeepersApp
 
-## Built with React siimilar to Google's Keep app.
+## Built with React similar to Google's Keep app.
 
 ![image](https://user-images.githubusercontent.com/55933789/172153461-114c8b79-2d12-4aba-83e2-30f65c9b7941.png)
 
